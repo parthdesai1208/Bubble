@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Bubble start</string>
+  <string name="channel_quotes">Inspirational Quotes</string>
+  <string name="channel_quotes_description">Inspirational Quotes Channel</string>
+</resources>
